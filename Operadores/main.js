@@ -47,6 +47,7 @@ if( tortillas== "caminado"){
     console.log("Paso 2: Pedir las tortillas");
 }
 if(regreso=="No hay tortillas"){
+
     console.log("No hubo tortillas");
 }else{
     console.log("MAMA NO HAY TORTILLAS")
